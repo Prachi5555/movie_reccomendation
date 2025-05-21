@@ -25,3 +25,4 @@ if st.button('Recommend'):
     recommendations = recommend(option)
     for i in recommendations:
         st.write(i)
+print("prachi")        
